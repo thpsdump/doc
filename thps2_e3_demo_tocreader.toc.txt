@@ -1,0 +1,2 @@
+Track (01)	data	00:02:00	LBA=000000
+Leadout: 15:04:61	LBA 067711
